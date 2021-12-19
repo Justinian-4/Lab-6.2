@@ -1,0 +1,3 @@
+﻿  UnitTest6.2.cpp
+C:\Users\asus\source\repos\Lab-6.2-1\UnitTest6.2\UnitTest6.2.cpp(7,1): error C2870: UnitTest62: определение пространства имен должно делаться на уровне файла или непосредственно в другом определении пространства имен
+C:\Users\asus\source\repos\Lab-6.2-1\Lab-6.2-1\Lab-6.2-1.cpp(8): fatal error C1075: "{": не найдена несоответствующая лексема
